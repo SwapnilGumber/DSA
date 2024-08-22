@@ -1,2 +1,2 @@
 # DSA
-This repository includes the questions I did while learning these data structures and algorithms.
+This repository includes the questions I did while learning data structures and algorithms.
